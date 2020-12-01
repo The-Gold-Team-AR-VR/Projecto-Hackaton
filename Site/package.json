@@ -1,0 +1,25 @@
+{
+  "name": "explorar",
+  "version": "1.0.0",
+  "description": "Moz Explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "plorar\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dex\u001b[C\u001b[C\u001b[C\u001bplorer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Gold-Team-AR-VR/Projecto-AR-VR.git"
+  },
+  "keywords": [
+    "Explorer"
+  ],
+  "author": "The Gold Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Gold-Team-AR-VR/Projecto-AR-VR/issues"
+  },
+  "homepage": "https://github.com/The-Gold-Team-AR-VR/Projecto-AR-VR#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
